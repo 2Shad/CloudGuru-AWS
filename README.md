@@ -44,6 +44,7 @@ AWS provides the following key services categories:
 ### **Cloud Deployment Models**
 
 #### **Private Cloud**
+```
 +---------------------+
 |      Private Cloud  |
 |---------------------|
@@ -56,8 +57,10 @@ AWS provides the following key services categories:
 | Local Devices       |
 | (Desktops, Laptops) |
 +---------------------+
+```
 
 #### **Public Cloud**
+```
 +---------------------+
 |     Public Cloud    |
 |---------------------|
@@ -71,8 +74,10 @@ AWS provides the following key services categories:
 | User Devices        |
 | (Laptops, Mobiles)  |
 +---------------------+
+```
 
 #### **Hybrid Cloud**
+```
 +--------------------+      +---------------------+
 |    Public Cloud    |<---->|    Private Cloud    |
 |--------------------|      |---------------------|
@@ -84,4 +89,4 @@ AWS provides the following key services categories:
 | Users       |         | Local Devices   |
 | (Web Access)|         | (Desktops, etc.)|
 +-------------+         +-----------------+
-
+```
